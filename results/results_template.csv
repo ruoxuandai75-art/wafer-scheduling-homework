@@ -1,0 +1,10 @@
+instance,rule,order,cmax,mean_flow,total_tardiness,unit,code_commit,python_version,command
+S1,FCFS,,,,,minute,,,
+S1,SPT,,,,,minute,,,
+S1,EDD,,,,,minute,,,
+S2,FCFS,,,,,minute,,,
+S2,SPT,,,,,minute,,,
+S2,EDD,,,,,minute,,,
+S3,FCFS,,,,,minute,,,
+S3,SPT,,,,,minute,,,
+S3,EDD,,,,,minute,,,

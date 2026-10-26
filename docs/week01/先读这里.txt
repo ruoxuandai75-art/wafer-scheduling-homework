@@ -1,0 +1,16 @@
+第一周 AI协作与Windows项目入门
+
+先读任务清单，再按学习材料的提问顺序操作。默认 Windows 和 PowerShell；遇到 CMD 时按文中说明区分语法。
+本周完成 AI 基础、新会话与工具核验，GitHub 注册和模板获取，VS Code／Conda／Git 配置，项目空文件夹与文件操作，三道场景题，以及一次 commit 和 push。
+师兄模板：https://github.com/HawkW1027/wafer-scheduling-learning
+接受访问邀请后，用 Use this template 建立自己的公开（Public）作业仓库，再克隆到自己创建的空文件夹。作业上传个人仓库，并让师兄能够访问。
+最终作业模板（相对于项目根目录，即 README.md 与 environment.yml 所在文件夹）：
+  docs/notes/W01_作业模板.docx —— Word 版，推荐用 Word 或 WPS 填写。
+  docs/notes/W01_作业模板.md —— Markdown 版，可选。
+复制所选模板到同一目录，改名为 W01_我的作业.docx 或 W01_我的作业.md；只需提交其中一种。最终答案保存在 docs/notes/，附件放 docs/notes/W01_附件/。
+使用本发放文件夹时，从“项目模板”进入 docs/notes；克隆 GitHub 项目后，直接从自己的项目根目录进入 docs/notes。
+Word 版无需渲染 Markdown。保存并关闭后向 AI 学习 commit 与 push；GitHub 若无法预览 Word，请下载本次提交的文件并打开核对。
+本目录的提交记录模板.md为 Markdown 备用副本；项目 docs/notes 下的两种格式是正式作业模板。
+本周不要求修改 hello.py、制造程序错误或实现调度算法。环境检查脚本用于核对安装。
+临时使用离线模板可以继续学习；注册、clone或push未完成时须标记待补。
+本文件夹沿用原目录名以保持已有链接有效，内容以本次 Windows 入门要求为准。

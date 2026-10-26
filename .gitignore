@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+.idea/
+.vscode/
+results/tmp/
+submissions/
+*.zip
+
+# Word / WPS 临时锁文件
+~$*.docx
+.~lock.*#
